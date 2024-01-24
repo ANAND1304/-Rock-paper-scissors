@@ -14,4 +14,6 @@ Implement the game logic using JavaScript.
 ![Screenshot 2024-01-24 165656](https://github.com/ANAND1304/-Rock-paper-scissors/assets/130790148/1ef66284-55a7-42d2-9469-1953a84f9e89)
 ![Screenshot 2024-01-24 165642](https://github.com/ANAND1304/-Rock-paper-scissors/assets/130790148/bb519dc0-133b-42e2-84df-3d2cef4f19d2)
 
+FINAL OUTPUT: 
+![Screenshot 2024-01-24 164602](https://github.com/ANAND1304/-Rock-paper-scissors/assets/130790148/7c07fdc3-b7e8-42df-85bd-417ceb3d05a9)
 
